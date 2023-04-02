@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+.main{
+    width: 80%;
+    margin: 0 auto;
+}
+.main_paragraph{
+    font-size: 700;
+}
